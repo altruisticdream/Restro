@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Restro.iml" filepath="$PROJECT_DIR$/.idea/modules/Restro.iml" group="Restro" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Restro/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Restro.iml" filepath="$PROJECT_DIR$/.idea/modules/Restro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Restro.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Restro.app.iml" />
     </modules>
   </component>
 </project>

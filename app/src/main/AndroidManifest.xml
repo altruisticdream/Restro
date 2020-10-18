@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Restaurant"></activity>
+        <activity android:name=".particularestaurant"></activity>
+        <activity android:name=".booktable" />
+        <activity android:name=".Restaurant" />
         <activity android:name=".Home" />
         <activity android:name=".Signup" />
         <activity android:name=".Login_activity" />

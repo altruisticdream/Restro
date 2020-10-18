@@ -15,7 +15,7 @@
         android:layout_height="48dp"
         android:text="Welcome to Restro !"
         android:textSize="35dp"
-        android:textColor="#FF0000"
+        android:textColor="#123456"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.504"
@@ -33,15 +33,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.098"
-        app:srcCompat="@drawable/logo1" />
+        app:srcCompat="@drawable/logooo" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="120dp"
+        android:layout_width="300dp"
         android:layout_height="70dp"
-        android:background="@drawable/card_layout"
+        android:background="@drawable/custom_button"
         android:text="Login"
-        android:textColor="#FF0000"
+        android:textColor="#123456"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -66,11 +66,11 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="114dp"
+        android:layout_width="300dp"
         android:layout_height="66dp"
-        android:background="@drawable/card_layout"
-        android:text="SIGN UP"
-        android:textColor="#FF0000"
+        android:background="@drawable/custom_button"
+        android:text="Create Account"
+        android:textColor="#123456"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
